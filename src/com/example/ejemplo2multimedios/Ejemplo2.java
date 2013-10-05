@@ -10,6 +10,7 @@ public class Ejemplo2 extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ejemplo2);
+        int i=0;
     }
 
 
